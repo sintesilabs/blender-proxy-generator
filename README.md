@@ -4,7 +4,7 @@ A Blender addon to automate proxy-generation of high-poly objects to make animat
 
 ## Setup
 
-- Download .zip file from [releases](releases)
+- Download .zip file from [latest release](https://github.com/sintesilabs/blender-proxy-generator/releases)
 - In Blender, go to Preferences > Add-ons
 - Click on the top-right dropdown > Install from Disk...
 - Select the downloaded .zip file
